@@ -1,6 +1,0 @@
-Assertion error occurred
-assert 'Overview - Redmine' == 'Redmine'
-  - Overview - Redmine
-  + Redmine
-I am inside finally block
-Test Completed
